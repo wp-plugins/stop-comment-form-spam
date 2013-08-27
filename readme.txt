@@ -18,10 +18,7 @@ This plugin simply removes:
 2. ALL Comment Form Allowed Tags Which Attract Automated Comment Form Spam.
 3. The 'Your email address will not be published' text which also attracts comment form bots because it includes the text 'email'.
 
-
-Want regular updates? 
-
-Become a fan of WP Sites on Facebook!
+Follow WP Sites on Facebook!
 
 http://www.facebook.com/wpsites.net
 
