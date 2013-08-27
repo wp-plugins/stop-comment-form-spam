@@ -1,7 +1,7 @@
 <?php 
 	/*
 	Plugin Name: Stop Comment Form Spam
-	Plugin URI: http://wpsites.net/plugins/
+	Plugin URI: http://wpsites.net/blog/
 	Description: Removes the website url field and comment form allowed tags which attract automated comment spam.
 	Version: 1.0
 	Requires 3.6
