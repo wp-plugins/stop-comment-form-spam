@@ -19,13 +19,12 @@ This plugin simply removes:
 3. The 'Your email address will not be published' text which also attracts comment form bots because it includes the text 'email'.
 
 
-Want regular updates? Become a fan of WP Sites on Facebook!
+Want regular updates? 
+
+Become a fan of WP Sites on Facebook!
 
 http://www.facebook.com/wpsites.net
 
-Or Get The Latest WordPress Tips, Tutorials & News on Twitter!
-
-http://twitter.com/wpsitesdotnet
 
 == Installation ==
 
@@ -33,7 +32,7 @@ This plugin is simple to install:
 
 1. Download `zip`
 2. Unzip
-3. Upload `flare` directory to your `/wp-content/plugins` directory
+3. Upload `stop-comment-form-spam` directory to your `/wp-content/plugins` directory
 4. Go to your WordPress Dashboard > Appearance > Plugins and enable the plugin
 
 Thats it. 
