@@ -27,6 +27,8 @@ http://www.facebook.com/wpsites.net
 
 == Installation ==
 
+Note: Requires WordPress 3.6 or higher
+
 This plugin is simple to install:
 
 1. Download `zip`
@@ -39,6 +41,8 @@ Thats it.
 You'll find comment form spam should be greatly reduced
 
 == Screenshots ==
+
+Note: Requires WordPress 3.6 or higher
 
 1. Website URL Field & Allowed Tags Removed From Comments Form
 
