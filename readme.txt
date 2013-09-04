@@ -24,6 +24,7 @@ Get WordPress Tips from WP Sites on Facebook!
 
 http://www.facebook.com/wpsites.net
 
+Learn more about <a href="http://wpsites.net/wordpress-admin/how-to-remove-comment-form-allowed-tags/">how to remove comment form allowed tags</a>
 
 == Installation ==
 
