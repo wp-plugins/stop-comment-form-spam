@@ -12,6 +12,8 @@ Removes the website url field and comment form allowed tags which attract automa
 
 == Description ==
 
+Note: Requires WordPress 3.6 or higher
+
 This plugin simply removes:
 
 1. The Website URL Field From All Comment Forms.
