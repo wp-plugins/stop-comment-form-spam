@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Removes the website url field and comment form allowed tags which attract automated comment spam.
+New WordPress 3.6 or higher plugin which removes the website url field and comment form allowed tags which attract automated comment spam.
 
 == Description ==
 
