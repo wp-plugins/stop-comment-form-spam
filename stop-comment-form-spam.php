@@ -3,7 +3,7 @@
 	Plugin Name: Stop Comment Form Spam
 	Plugin URI: http://wpsites.net/blog/
 	Description: Removes the website url field and comment form allowed tags which attract automated comment spam.
-	Version: 1.0
+	Version: 1.1
 	Requires 3.6
 	Author: Brad Dalton - WP Sites
 	Author URI: http://wpsites.net/
@@ -18,13 +18,14 @@ function remove_comment_url($fields) {
     return $fields;
 }
 
-//* Remove Comment Form Allowed Tags
-function remove_comment_form_allowed_tags() {
-add_filter('comment_form_defaults','wordpress_comment_form_defaults');
+//* Remove comment form allowed tags
+add_filter( 'comment_form_defaults', 'news_remove_comment_form_allowed_tags' );
+function news_remove_comment_form_allowed_tags( $defaults ) {
+
+	    $defaults['comment_notes_after'] = '';
+		$defaults['comment_notes_before'] = '';
+	return $defaults;
+
 }
-add_action('after_setup_theme','remove_comment_form_allowed_tags');
-function wordpress_comment_form_defaults($default) {
-	unset($default['comment_notes_after']);
-	unset($default['comment_notes_before']);
-	return $default;
-}
+
+
